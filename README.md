@@ -43,7 +43,7 @@ A string can be up to 32,767 characters long
 
 Variable type: int
 Its data type is to store integers and no floating-point numbers or decimal number.
-A int can contain any integer containing digits 0,1,2,3,4,5,6,7,8,9.
+A int can contain any integer containing digits 0,1,2,3,4,5,6,7,8,9. 
 
 Variable type: boolean
 booleans can only contain true or false statements, an example variable assignment that is wrong would be anything that is not true or false in this case, 
